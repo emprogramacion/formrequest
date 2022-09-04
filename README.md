@@ -1,2 +1,2 @@
-# formrequest
-Validando por medio de Requests
+# Formrequest
+Validaciones por medio de Requests
